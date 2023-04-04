@@ -1,0 +1,43 @@
+body {
+    background-color: #fee2e7;
+}
+
+hr {
+    border-top: 2px solid white;
+}
+
+h1 {
+    font-family: "Montserrat";
+}
+
+.inline_div {
+    display: inline-flex;
+}
+
+#logo {
+    width: 90px;
+    height: 90px;
+    margin-left: 10px;
+}
+
+canvas {
+    border: 1px dashed black;
+}
+
+.filters {
+    width: 120px;
+    height: 120px;
+    border-radius: 80px;
+    border: 2px solid white;
+    margin-left: 3px;
+    margin-right: 3px
+}
+
+#lipstick {
+    border: 5px solid white;
+}
+
+#filters_selector {
+    margin-top: 500px;
+    margin-bottom: 20px;
+}
